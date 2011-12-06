@@ -1,31 +1,26 @@
-Freetronics EtherTen
-====================
-Copyright 2010 Freetronics Pty Ltd  
+Freetronics EtherMega
+=====================
+Copyright 2011 Freetronics Pty Ltd  
 Freetronics site:  <www.freetronics.com>  
 Freetronics email: <info@freetronics.com>  
 
-The EtherTen is a 100% Arduino Compatible Board, based on the existing
-Duemilanove, but with improvements and updates for ease of use, cost
-and getting started. It also includes on-board Ethernet with PoE (Power
--over-Ethernet) support.
+The EtherMega is a 100% Arduino-compatible board based on the existing
+Mega2560, but with improvements and updates for features and ease of
+use. It also includes on-board Ethernet with PoE (Power-over-Ethernet)
+support.
 
 Features:
 
- * LEDs visible on the edge
+ * High-efficiency switchmode power supply (input voltage 7-28Vdc)
  * Mini-USB Connector
+ * microSD card slot
+ * 10/100 Ethernet using the Wiznet W5100 chip
  * Overlay guide where you need it (both top and bottom)
  * D13 pin works for everything
- * RX pin biased
- * Mounting holes, power and X3 pads
- * All connections in the same place
 
 You can view more at our product page at:
 
-  http://www.freetronics.com/etherten
-
-The "docs" folder within this repository includes a handy copy of the
-schematic in PDF format, images of the pcb, and our Getting Started
-guide that ships with each board.
+  http://www.freetronics.com/ethermega
 
 
 INSTALLATION
@@ -34,7 +29,7 @@ The design is saved as an EAGLE project. EAGLE PCB design software is
 available from www.cadsoftusa.com free for non-commercial use. To use
 this project download it and place the directory containing these files
 into the "eagle" directory on your computer. Then open EAGLE and
-navigate to Projects -> eagle -> EtherTen.
+navigate to Projects -> eagle -> EtherMega.
 
 
 DISTRIBUTION
@@ -66,9 +61,9 @@ licences referenced above.
 
 CREDITS
 -------
-The EtherTen was designed by Marc Alexander (marc@freetronics.com)
-based on previous work by the Arduino team
-(www.arduino.cc/playground/Main/People) which includes:
+The EtherMega was designed by Marc Alexander (marc@freetronics.com) and
+Jonathan Oxer (jon@freetronics.com) based on previous work by the Arduino
+team (www.arduino.cc/playground/Main/People) which includes:
 
  * Massimo Banzi
  * David Cuartielles

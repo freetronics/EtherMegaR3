@@ -1,10 +1,10 @@
-Freetronics EtherMega
-=====================
-Copyright 2011 Freetronics Pty Ltd  
-Freetronics site:  <www.freetronics.com>  
-Freetronics email: <info@freetronics.com>  
+Freetronics EtherMega R3
+========================
+Copyright 2011-2012 Freetronics Pty Ltd  
+Freetronics site:  www.freetronics.com  
+Freetronics email: info@freetronics.com  
 
-The EtherMega is a 100% Arduino-compatible board based on the existing
+The EtherMega R3 is a 100% Arduino-compatible board based on the existing
 Mega2560, but with improvements and updates for features and ease of
 use. It also includes on-board Ethernet with PoE (Power-over-Ethernet)
 support.
@@ -12,7 +12,7 @@ support.
 Features:
 
  * High-efficiency switchmode power supply (input voltage 7-28Vdc)
- * Mini-USB Connector
+ * Micro-USB Connector
  * microSD card slot
  * 10/100 Ethernet using the Wiznet W5100 chip
  * Overlay guide where you need it (both top and bottom)
@@ -29,7 +29,7 @@ The design is saved as an EAGLE project. EAGLE PCB design software is
 available from www.cadsoftusa.com free for non-commercial use. To use
 this project download it and place the directory containing these files
 into the "eagle" directory on your computer. Then open EAGLE and
-navigate to Projects -> eagle -> EtherMega.
+navigate to Projects -> eagle -> EtherMegaR3.
 
 
 DISTRIBUTION
